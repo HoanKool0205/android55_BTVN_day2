@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">android55_BTVN_day2</string>
+    <string name="joinNow">JOIN NOW</string>
+
+    <string name="userName_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="backHome">Back</string>
+
+    <string name="titleNameBig" translatable="false"></string>
+    <string name="titleNameSmall">Grow Together</string>
+
+    <string name="textWelcomeLogin">Welcome Back!</string>
+    <string name="textEnterLogin">Enter Your Username and Password</string>
+    <string name="forgottenLogin">Forgotten Passwoard?</string>
+    <string name="orCreateLogin">Or Create a New Account</string>
+
+</resources>
